@@ -9,9 +9,5 @@ How to use this package:
     output: PASS A STRING OR SENTENCE HERE
 4. call lower function to make the passing sentance lowercase like this: echo $object->lower();
     output: pass a string or sentance here
-6. call capitalize function to make the passing sentance's first word's first letter capital like this: echo $object->capitalize();
-    output: Pass a string or sentance here
-7. call capitalizeAll function to make the passing sentance's all word's first letter capital like this: echo $object->capitalizeAll();
-    output: Pass A String Or Sentance Here
-8. call reverse function to make the passing sentance revese: echo $object->reverse();
+5. call reverse function to make the passing sentance revese: echo $object->reverse();
     output: ereh ecnatnes ro gnirts a ssap
